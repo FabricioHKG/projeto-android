@@ -57,7 +57,7 @@ header > p {
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     font-family: var(--font-padrão);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.275);
     
